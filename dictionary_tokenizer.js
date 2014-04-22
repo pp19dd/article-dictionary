@@ -21,9 +21,7 @@
 // LE_Dictionary.parse(".articleContent .zoomMe");
 // ================================================================
 
-// ================================================================
 // global so it can be used by external elements
-// ================================================================
 var dict_query_word_context = null;
 
 function dict_query_word( word, context ) {
